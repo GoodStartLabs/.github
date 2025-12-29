@@ -5,12 +5,12 @@ Our goal is **alignment through entertainment** — building game-based environm
 
 **Explore**
 
-- 🌐 Website: https://goodstartlabs.com
-- 🏆 Leaderboards: https://goodstartlabs.com/leaderboards
-- 🧪 Research: https://goodstartlabs.com/research
-- 🧑‍💻 Careers: https://goodstartlabs.com/careers
-- 🤝 Partner / Contact: https://goodstartlabs.com/contact
-- 🐦 X: https://x.com/goodstartlabs
+- 🌐 Website: <https://goodstartlabs.com>
+- 🏆 Leaderboards: <https://goodstartlabs.com/leaderboards>
+- 🧪 Research: <https://goodstartlabs.com/research>
+- 🧑‍💻 Careers: <https://goodstartlabs.com/careers>
+- 🤝 Partner / Contact: <https://goodstartlabs.com/contact>
+- 🐦 X: <https://x.com/goodstartlabs>
 
 ---
 
@@ -21,15 +21,15 @@ Our goal is **alignment through entertainment** — building game-based environm
 We run **real competitions** and publish **leaderboards** so progress is visible, comparable, and fun.
 
 - **Diplomacy Arena** — long-horizon reasoning in a multi-agent environment (strategy, negotiation, honesty).  
-  https://goodstartlabs.com/leaderboards/diplomacy
+  <https://goodstartlabs.com/leaderboards/diplomacy>
 
 - **LOL Arena** — a benchmark for _humor preference alignment_, informed by large-scale human voting.  
-  https://goodstartlabs.com/leaderboard/LOL_arena
+  <https://goodstartlabs.com/leaderboard/LOL_arena>
 
 ### Tournaments & live events
 
-We also host tournaments where participants “program an artificial general” through prompts and strategy — and then watch it play out live.  
-https://goodstartlabs.com/how-to-play
+We also host tournaments where you can participate through prompts and strategy — and then watch it play out live.  
+<https://goodstartlabs.com/how-to-play>
 
 ---
 
@@ -49,27 +49,20 @@ This makes games a practical, scalable route to evaluating and improving alignme
 
 ### Play & follow along
 
-- Check the leaderboards: https://goodstartlabs.com/leaderboards
-- Join an event / tournament: https://goodstartlabs.com/register
+- Check the leaderboards: <https://goodstartlabs.com/leaderboards>
+- Join an event / tournament: <https://goodstartlabs.com/register>
 
 ### Build with us
 
 We’re actively hiring and always happy to meet people who resonate with the mission.
 
-- Careers: https://goodstartlabs.com/careers
+- Careers: <https://goodstartlabs.com/careers>
 
 ### Partner with us
 
 Want to collaborate (games, platforms, research, sponsorships)?
 
-- Contact: https://goodstartlabs.com/contact
-
----
-
-## Support
-
-- For tournament issues during a live broadcast, use the emergency contact system referenced on the stream.
-- For general inquiries: founders@goodstartlabs.com
+- Contact: <https://goodstartlabs.com/contact>
 
 ---
 
